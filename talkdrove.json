@@ -8,7 +8,7 @@
     "owner-verification": "tzsailas@gmail.com",  
     "env": {
       "SESSION_ID": {
-        "description": "B.m.b-Xmd~8WUBkZZZ#DrgVNjnbz9hoqvoL3sT1yajmitchX9jmYMW0LLJA2Cg. Make sure it starts with B.m.b-Xmd~  or get session id from here,  https://bmb-session-plag.onrender.com/pair",
+        "description": "B.m.b-Xmd~ZK1HkDhT#3v0n6mEx9jCp4ve2luoFo197s7bFdGYfJRXhQU7don8. Make sure it starts with B.m.b-Xmd~  or get session id from here,  https://bmb-session-plag.onrender.com/pair",
         "value":"",
         "required": true        
     },
